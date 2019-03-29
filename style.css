@@ -37,7 +37,7 @@ a:hover {
 }
   
  
-  a:active {
+a:active {
     color: goldenrod;
 }
 
@@ -56,4 +56,22 @@ a:hover {
 
 .aboutText{
     padding: 30px;
+}
+.portfolio-table{
+    display:flex;
+    flex: wrap;
+}
+.portfolio-item{
+    background-color: aquamarine;
+    text-align: center
+}
+.socialProfiles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;   
+}
+
+.socialProfiles a{
+    text-decoration: none;
 }
