@@ -1,3 +1,43 @@
 body{
-    background: #F7F7F3,
+    background: #F7F7F3;
+    font-family: 'Rubik', sans-serif;
+}
+/* navingation bar */
+nav{
+    background-color: transparent;
+    color: black;
+    border: none;
+    height: 10vh;
+}
+
+nav a{
+    text-decoration: none;
+}
+nav ul li:first-child {
+     float: left;
+ }
+nav li{
+    list-style: none;
+    margin: 15px;
+    float: right;
+}
+
+
+a:link {
+    color: black;
+}
+  
+  
+a:visited {
+    color: black;
+}
+  
+
+a:hover {
+    color: goldenrod;
+}
+  
+ 
+  a:active {
+    color: goldenrod;
 }
