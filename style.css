@@ -65,6 +65,10 @@ a:active {
     background-color: aquamarine;
     text-align: center
 }
+.projectImages{
+    display: flex;
+    flex-direction: row;
+}
 .socialProfiles{
     display: flex;
     flex-direction: row;
