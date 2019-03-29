@@ -59,7 +59,7 @@ a:active {
 }
 .portfolio-table{
     display:flex;
-    flex: wrap;
+    flex-wrap: wrap;
 }
 .portfolio-item{
     background-color: aquamarine;
