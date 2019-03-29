@@ -53,3 +53,7 @@ a:hover {
     display: flex;
     justify-content: center;
 }
+
+.aboutText{
+    padding: 30px;
+}
